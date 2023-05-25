@@ -1,0 +1,47 @@
+body {
+    background: lightgray;
+}
+
+header {
+    background: dodgerblue;
+    text-align: center;
+    padding: 20px 20px;
+}
+
+input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 3px;
+}
+
+.title {
+    font-weight: bold;
+    color: white;
+    font-size: larger;
+}
+
+.subtitle {
+    color: gray;
+    font-size: small;
+}
+
+.card {
+    background: white;
+}
+
+.figure {
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.example-square {
+    border: 1px solid blue;
+    height: 50px;
+    width: 50px;
+}
